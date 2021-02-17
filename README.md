@@ -15,3 +15,8 @@ Project 2
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=1aXk2RViq3c&t=29s
+" target="_blank"><img src="http://img.youtube.com/vi/1aXk2RViq3c&t=29s/0.jpg" 
+alt="Test" width="240" height="180" border="10" /></a>
