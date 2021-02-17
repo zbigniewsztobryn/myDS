@@ -1,3 +1,3 @@
 # My first data science project
-## This is all about `back-ticks around` new job
+###### Hi, my name is Zbigniew. I would like to present visual portfolio based on `data science` and `machine learning`
 ======
